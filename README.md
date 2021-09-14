@@ -12,6 +12,11 @@ pip install requests
 ```
 pip install BeautifulSoup
 ```
+* Clone this repository
+```
+git clone https://github.com/michael21910/NDHUAC-latest-activity-web-crawler.git
+```
+* Execute the program file "index.py"
   
 ## What will you get :icecream:
 There are 5 informations that you will get in each area:  
