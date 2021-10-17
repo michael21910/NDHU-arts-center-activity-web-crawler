@@ -1,4 +1,4 @@
-# NDHUAC Latest Activity Web Crawler
+# NDHU Arts Center Latest Activity Web Crawler
 NDHUAC stands for "National Dong Hwa University Arts Center".  
 This program web crawls the five latest [activity at this webpage](https://artscenter.ndhu.edu.tw/p/403-1123-5125-1.php?Lang=zh-tw).  
 If you like art activities, you defintly need to get this program.  
